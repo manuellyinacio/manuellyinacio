@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🍁
 
-<!--
-**manuellyinacio/manuellyinacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Manuelly Inacio
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você pode entrar comigo 📧
+
+  0001097013248sp@al.educacao.sp.gov.br
+
+
+
+![](https://media1.tenor.com/m/rbVd4FhEwoEAAAAC/cinderella-mouse.gif)
